@@ -1,0 +1,12 @@
+# Resultados locales de futuras compilaciones y herramientas.
+/target/
+/.cache/
+
+# Observaciones privadas, capturas y sesiones de referencia no redistribuibles.
+/plan/
+/corpus/private/
+
+# Configuración local; nunca publicar credenciales.
+.env
+.env.*
+!.env.example
